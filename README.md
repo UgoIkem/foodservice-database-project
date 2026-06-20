@@ -14,3 +14,5 @@ The project showcases:
 - Business analysis using SQL
 
 ## Database Schema
+
+![FoodService_ERD](images/FoodService_ERD.png)
