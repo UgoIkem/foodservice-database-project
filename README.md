@@ -12,3 +12,5 @@ The project showcases:
 - Aggregation functions
 - Stored procedures
 - Business analysis using SQL
+
+## Database Schema
